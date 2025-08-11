@@ -1,0 +1,1 @@
+module.exports.ProductValidation = require('./product.validation');
