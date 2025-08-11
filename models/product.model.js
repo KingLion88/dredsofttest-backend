@@ -7,7 +7,7 @@ const productSchema = mongoose.Schema(
       type: mongoose.Schema.Types.ObjectId,
       auto: true,
     },
-    name: {
+    title: {
       type: String,
       required: true,
       trim: true,
