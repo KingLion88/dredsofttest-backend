@@ -1,6 +1,5 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const mongoSanitize = require('express-mongo-sanitize');
 require('dotenv').config();
 
 const app = express();
