@@ -7,7 +7,7 @@ Implements `Get All Products`, `Get Products By Category`, `Get Product By Id`, 
 
 npm install
 
-# Star the server
+# Start the server
 
 npm start
 
