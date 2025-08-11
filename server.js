@@ -9,7 +9,6 @@ const PORT = process.env.PORT;
 const MONGODB_URL = process.env.MONGODB_URL;
 
 // Define a route for the server
-app.use(mongoSanitize());
 app.use(express.json());
 app.use('/api', require('./routes'));
 
