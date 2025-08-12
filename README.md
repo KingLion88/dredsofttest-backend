@@ -34,5 +34,5 @@ npm run dev
   Method post
   Params name, category, price, description
 
-  # Screenshot
-  ![Screenshot](./Screenshot.png)
+# Screenshot
+![Screenshot](./Screenshot.png)
