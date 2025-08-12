@@ -33,3 +33,6 @@ npm run dev
   Url localhost:3001/api/products
   Method post
   Params name, category, price, description
+
+  # Screenshot
+  ![Screenshot](./Screenshot.png)
